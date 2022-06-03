@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MineJanitor", "MineJanitor\MineJanitor.vcxproj", "{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Debug|x64.ActiveCfg = Debug|x64
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Debug|x64.Build.0 = Debug|x64
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Debug|x86.Build.0 = Debug|Win32
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Release|x64.ActiveCfg = Release|x64
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Release|x64.Build.0 = Release|x64
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Release|x86.ActiveCfg = Release|Win32
+		{B9A26E26-4BD6-4350-87FF-31DDB9B041E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB894798-0381-442C-A754-F3FD3A1D7268}
+	EndGlobalSection
+EndGlobal
